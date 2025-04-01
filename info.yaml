@@ -25,7 +25,7 @@ pinout:
   ui[7]: ""
 
   # Outputs
-  uo[0]: "AB+C"
+  uo[0]: "(A&B)+C"
   uo[1]: ""
   uo[2]: ""
   uo[3]: ""
