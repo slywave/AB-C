@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My projects take 3 inputs and put them into an and gate then into an or gate
 
 ## How to test
 
-Explain how to use your project
+You can put 3 random inputs with 8 different combinations and test each output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED Light
